@@ -1,0 +1,3 @@
+# google-maps-js-api
+Google Maps API using Javascript. However, this project doesn't work if your billing system isn't enable.
+#This project does not have a billing account. You will need to add billing information for this project to continue to use Google Maps Platform. The first $200 of monthly usage is free. You only pay for what you use. You can review rates and access your spending any time in your Google Cloud Platform Console, where you can also set daily quotas to protect against unexpected increases. You can also set billing alerts to receive email notifications when charges reach a preset threshold determined by you.
